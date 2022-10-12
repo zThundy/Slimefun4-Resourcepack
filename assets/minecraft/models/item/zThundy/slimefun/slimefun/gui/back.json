@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+	"author": "zThundy",
+    "textures": {
+        "layer0": "items/zThundy/slimefun/slimefun/gui/back"
+    },
+	"display": {
+		"gui": {
+			"scale":  [ 1.1, 1.1, 1.1 ]
+        }
+	}
+}

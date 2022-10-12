@@ -1,6 +1,6 @@
 {
-  "pack": {
-    "pack_format": 6,
-    "description": "Official Slimefun-Resourcepack {version}"
-  }
+   "pack":{
+      "pack_format":6,
+      "description":"§7Custom zThundy server's §bresource pack"
+   }
 }

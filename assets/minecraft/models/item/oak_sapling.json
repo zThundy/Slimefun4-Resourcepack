@@ -1,0 +1,29 @@
+{
+	"parent": "minecraft:item/oak_sapling",
+	"author": "zThundy",
+	"textures": {
+		"layer0": "item/oak_sapling"
+	},
+	
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2500000 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/aluminum_plant" },
+		{ "predicate": { "custom_model_data": 2500001 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/coal_plant" },
+		{ "predicate": { "custom_model_data": 2500002 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/copper_plant" },
+		{ "predicate": { "custom_model_data": 2500003 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/diamond_plant" },
+		{ "predicate": { "custom_model_data": 2500004 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/dirt_plant" },
+		{ "predicate": { "custom_model_data": 2500005 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/emerald_plant" },
+		{ "predicate": { "custom_model_data": 2500006 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/ender_plant" },
+		{ "predicate": { "custom_model_data": 2500007 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/glowstone_plant" },
+		{ "predicate": { "custom_model_data": 2500008 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/gold_plant" },
+		{ "predicate": { "custom_model_data": 2500009 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/iron_plant" },
+		{ "predicate": { "custom_model_data": 2500010 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/lapis_plant" },
+		{ "predicate": { "custom_model_data": 2500011 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/lead_plant" },
+		{ "predicate": { "custom_model_data": 2500012 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/netherite_plant" },
+		{ "predicate": { "custom_model_data": 2500013 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/obsidian_plant" },
+		{ "predicate": { "custom_model_data": 2500014 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/quartz_plant" },
+		{ "predicate": { "custom_model_data": 2500015 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/redstone_plant" },
+		{ "predicate": { "custom_model_data": 2500016 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/silver_plant" },
+		{ "predicate": { "custom_model_data": 2500017 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/slime_plant" },
+		{ "predicate": { "custom_model_data": 2500018 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/tin_plant" }
+	]
+}

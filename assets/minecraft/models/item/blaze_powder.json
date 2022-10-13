@@ -1,0 +1,29 @@
+{
+	"parent": "minecraft:item/blaze_powder",
+	"author": "zThundy",
+	"textures": {
+		"layer0": "item/blaze_powder"
+	},
+	
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2600000 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_aluminium" },
+		{ "predicate": { "custom_model_data": 2600001 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_coal" },
+		{ "predicate": { "custom_model_data": 2600002 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_copper" },
+		{ "predicate": { "custom_model_data": 2600003 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_dirt" },
+		{ "predicate": { "custom_model_data": 2600004 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_emerald" },
+		{ "predicate": { "custom_model_data": 2600005 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_ender" },
+		{ "predicate": { "custom_model_data": 2600006 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_glowstone" },
+		{ "predicate": { "custom_model_data": 2600007 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_gold" },
+		{ "predicate": { "custom_model_data": 2600008 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_iron" },
+		{ "predicate": { "custom_model_data": 2600009 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_lapis" },
+		{ "predicate": { "custom_model_data": 2600010 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_lead" },
+		{ "predicate": { "custom_model_data": 2600011 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_netherite" },
+		{ "predicate": { "custom_model_data": 2600012 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_obsidian" },
+		{ "predicate": { "custom_model_data": 2600013 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_quartz" },
+		{ "predicate": { "custom_model_data": 2600014 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_redstone" },
+		{ "predicate": { "custom_model_data": 2600015 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_silver" },
+		{ "predicate": { "custom_model_data": 2600016 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_slime" },
+		{ "predicate": { "custom_model_data": 2600017 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_tin" },
+		{ "predicate": { "custom_model_data": 2600018 }, "model": "item/zThundy/slimefun/slimefun/exoticgarden/cropessence_diamond" }
+	]
+}
